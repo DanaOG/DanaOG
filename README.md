@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanaOG
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Computer Science in general 
+- 👀 I’m interested in CyberSecurity 
+- 🌱 I’m currently learning Computer Science in  CyberSecurity and Digital forensics 
 - 💞️ I’m looking to collaborate on anything will improve my skills 
 
 <!---
